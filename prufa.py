@@ -1,1 +1,3 @@
 hallo
+
+self.fail('message')
